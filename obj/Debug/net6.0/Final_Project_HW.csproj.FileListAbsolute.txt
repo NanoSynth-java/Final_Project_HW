@@ -1,0 +1,15 @@
+E:\Final_Project_HW\bin\Debug\net6.0\Final_Project_HW.exe
+E:\Final_Project_HW\bin\Debug\net6.0\Final_Project_HW.deps.json
+E:\Final_Project_HW\bin\Debug\net6.0\Final_Project_HW.runtimeconfig.json
+E:\Final_Project_HW\bin\Debug\net6.0\Final_Project_HW.dll
+E:\Final_Project_HW\bin\Debug\net6.0\Final_Project_HW.pdb
+E:\Final_Project_HW\obj\Debug\net6.0\Final_Project_HW.csproj.AssemblyReference.cache
+E:\Final_Project_HW\obj\Debug\net6.0\Final_Project_HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final_Project_HW\obj\Debug\net6.0\Final_Project_HW.AssemblyInfoInputs.cache
+E:\Final_Project_HW\obj\Debug\net6.0\Final_Project_HW.AssemblyInfo.cs
+E:\Final_Project_HW\obj\Debug\net6.0\Final_Project_HW.csproj.CoreCompileInputs.cache
+E:\Final_Project_HW\obj\Debug\net6.0\Final_Project_HW.dll
+E:\Final_Project_HW\obj\Debug\net6.0\refint\Final_Project_HW.dll
+E:\Final_Project_HW\obj\Debug\net6.0\Final_Project_HW.pdb
+E:\Final_Project_HW\obj\Debug\net6.0\Final_Project_HW.genruntimeconfig.cache
+E:\Final_Project_HW\obj\Debug\net6.0\ref\Final_Project_HW.dll
